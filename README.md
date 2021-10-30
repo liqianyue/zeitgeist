@@ -3,4 +3,4 @@
 
 2021年广东省农信联社校园金融科技挑战赛----基于评分卡模型的用户画像
 
-癌症溯源课题研究
+Research on the topic of cancer traceability
