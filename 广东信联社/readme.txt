@@ -1,38 +1,38 @@
-*************************************×÷Æ·ËµÃ÷*************************************
-Ò»¡¢Ëù°üº¬µÄ³ÌÐò¼°Êä³öÎÄ¼þ
+*************************************ä½œå“è¯´æ˜Ž*************************************
+ä¸€ã€æ‰€åŒ…å«çš„ç¨‹åºåŠè¾“å‡ºæ–‡ä»¶
 
-1¡¢ÌØÕ÷¹¤³Ì_1.ipynb£º"train7.9_screening.csv","test7.9_screening.csv","y_train.csv"[Êý¾Ý¼¯1]
+1ã€ç‰¹å¾å·¥ç¨‹_1.ipynbï¼š"train7.9_screening.csv","test7.9_screening.csv","y_train.csv"[æ•°æ®é›†1]
 
-2¡¢ÌØÕ÷¹¤³Ì_2.ipynb£º"train8.3.csv","test8.3.csv"[Êý¾Ý¼¯2]
+2ã€ç‰¹å¾å·¥ç¨‹_2.ipynbï¼š"train8.3.csv","test8.3.csv"[æ•°æ®é›†2]
 
-3¡¢lightGBM_1.ipynb£º"prob_lgb_1.csv","prob_lgb+focal_loss.csv","prob_lgb_2.csv"[Ô¤²â¸ÅÂÊA,B,C]
+3ã€lightGBM_1.ipynbï¼š"prob_lgb_1.csv","prob_lgb+focal_loss.csv","prob_lgb_2.csv"[é¢„æµ‹æ¦‚çŽ‡A,B,C]
 
-4¡¢Catboost.ipynb£º"prob_catboost.csv"[Ô¤²â¸ÅÂÊD]
+4ã€Catboost.ipynbï¼š"prob_catboost.csv"[é¢„æµ‹æ¦‚çŽ‡D]
 
-5¡¢CNN.ipynb£º"cnn_test_label.csv"[Ô¤²â¸ÅÂÊE]
+5ã€CNN.ipynbï¼š"cnn_test_label.csv"[é¢„æµ‹æ¦‚çŽ‡E]
 
-6¡¢lightGBM_2.ipynb£º"prob_lgb_4.csv"[Ô¤²â¸ÅÂÊF]
+6ã€lightGBM_2.ipynbï¼š"prob_lgb_4.csv"[é¢„æµ‹æ¦‚çŽ‡F]
 
-7¡¢XGB_classifier.ipynb£º"xgb_pro_test.csv"[Ô¤²â¸ÅÂÊG]
+7ã€XGB_classifier.ipynbï¼š"xgb_pro_test.csv"[é¢„æµ‹æ¦‚çŽ‡G]
 
-8¡¢stack.ipynb£º"final_test_label.csv"
+8ã€stack.ipynbï¼š"final_test_label.csv"
 
-Èý¡¢³ÌÐòÖ´ÐÐÁ÷³Ì
+äºŒã€ç¨‹åºæ‰§è¡Œæµç¨‹
 
-1¡¢"ÌØÕ÷¹¤³Ì_1.ipynb":¶ÔÔ­Ê¼Êý¾Ý¼¯½øÐÐ¹¤³Ì´¦Àí£¬Êä³öÑµÁ·¼¯1£¬²âÊÔ¼¯1ºÍÑµÁ·¼¯±êÇ©
+1ã€"ç‰¹å¾å·¥ç¨‹_1.ipynb":å¯¹åŽŸå§‹æ•°æ®é›†è¿›è¡Œå·¥ç¨‹å¤„ç†ï¼Œè¾“å‡ºè®­ç»ƒé›†1ï¼Œæµ‹è¯•é›†1å’Œè®­ç»ƒé›†æ ‡ç­¾
 
-2¡¢"ÌØÕ÷¹¤³Ì_2.ipynb":¶ÔÔ­Ê¼Êý¾Ý¼¯½øÐÐ¹¤³Ì´¦Àí£¬Êä³öÑµÁ·¼¯2£¬²âÊÔ¼¯2
+2ã€"ç‰¹å¾å·¥ç¨‹_2.ipynb":å¯¹åŽŸå§‹æ•°æ®é›†è¿›è¡Œå·¥ç¨‹å¤„ç†ï¼Œè¾“å‡ºè®­ç»ƒé›†2ï¼Œæµ‹è¯•é›†2
 
-3¡¢"lightGBM_1.ipynb":ÊäÈë"ÌØÕ÷¹¤³Ì_1"´¦ÀíµÃµ½µÄÊý¾Ý¼¯£¬ÓÃlightGBMËã·¨¶ÔÄ£ÐÍ½øÐÐÑµÁ·£¬ÒÔ¸ÅÂÊÐÎÊ½Ô¤²â²âÊÔ¼¯£¬Êä³öÔ¤²â¸ÅÂÊ£»ÆäÖÐÊ¹ÓÃÁËÈýÖÖ²»Í¬µÄ·½·¨½øÐÐÑµÁ·£¨²»Í¬µÄÄ£ÐÍ²ÎÊýÒÔ¼°ÐÂ¶¨ÒåµÄfocal_lossÄ¿±êº¯Êý£©£¬Òò´Ë×Ü¹²Êä³öÈý¸öÔ¤²â¸ÅÂÊ£¨A,B,C£©
+3ã€"lightGBM_1.ipynb":è¾“å…¥"ç‰¹å¾å·¥ç¨‹_1"å¤„ç†å¾—åˆ°çš„æ•°æ®é›†ï¼Œç”¨lightGBMç®—æ³•å¯¹æ¨¡åž‹è¿›è¡Œè®­ç»ƒï¼Œä»¥æ¦‚çŽ‡å½¢å¼é¢„æµ‹æµ‹è¯•é›†ï¼Œè¾“å‡ºé¢„æµ‹æ¦‚çŽ‡ï¼›å…¶ä¸­ä½¿ç”¨äº†ä¸‰ç§ä¸åŒçš„æ–¹æ³•è¿›è¡Œè®­ç»ƒï¼ˆä¸åŒçš„æ¨¡åž‹å‚æ•°ä»¥åŠæ–°å®šä¹‰çš„focal_lossç›®æ ‡å‡½æ•°ï¼‰ï¼Œå› æ­¤æ€»å…±è¾“å‡ºä¸‰ä¸ªé¢„æµ‹æ¦‚çŽ‡ï¼ˆA,B,Cï¼‰
 
-4¡¢"Catboost.ipynb":ÊäÈë"ÌØÕ÷¹¤³Ì_1"´¦ÀíµÃµ½µÄÊý¾Ý¼¯,ÓÃCatboostËã·¨¶ÔÄ£ÐÍ½øÐÐÑµÁ·£¬ÒÔ¸ÅÂÊÐÎÊ½Ô¤²â²âÊÔ¼¯£¬Êä³öÔ¤²â¸ÅÂÊD
+4ã€"Catboost.ipynb":è¾“å…¥"ç‰¹å¾å·¥ç¨‹_1"å¤„ç†å¾—åˆ°çš„æ•°æ®é›†,ç”¨Catboostç®—æ³•å¯¹æ¨¡åž‹è¿›è¡Œè®­ç»ƒï¼Œä»¥æ¦‚çŽ‡å½¢å¼é¢„æµ‹æµ‹è¯•é›†ï¼Œè¾“å‡ºé¢„æµ‹æ¦‚çŽ‡D
 
-5¡¢"CNN.ipynb":ÊäÈë"ÌØÕ÷¹¤³Ì_1"´¦ÀíµÃµ½µÄÊý¾Ý¼¯,ÓÃCNNËã·¨¶ÔÄ£ÐÍ½øÐÐÑµÁ·£¬ÒÔ¸ÅÂÊÐÎÊ½Ô¤²â²âÊÔ¼¯£¬Êä³öÔ¤²â¸ÅÂÊE
+5ã€"CNN.ipynb":è¾“å…¥"ç‰¹å¾å·¥ç¨‹_1"å¤„ç†å¾—åˆ°çš„æ•°æ®é›†,ç”¨CNNç®—æ³•å¯¹æ¨¡åž‹è¿›è¡Œè®­ç»ƒï¼Œä»¥æ¦‚çŽ‡å½¢å¼é¢„æµ‹æµ‹è¯•é›†ï¼Œè¾“å‡ºé¢„æµ‹æ¦‚çŽ‡E
 
-6¡¢"lightGBM_2.ipynb":ÊäÈë"ÌØÕ÷¹¤³Ì_2"´¦ÀíµÃµ½µÄÊý¾Ý¼¯£¬ÓÃlightGBMËã·¨¶ÔÄ£ÐÍ½øÐÐÑµÁ·£¬ÒÔ¸ÅÂÊÐÎÊ½Ô¤²â²âÊÔ¼¯£¬Êä³öÔ¤²â¸ÅÂÊF
+6ã€"lightGBM_2.ipynb":è¾“å…¥"ç‰¹å¾å·¥ç¨‹_2"å¤„ç†å¾—åˆ°çš„æ•°æ®é›†ï¼Œç”¨lightGBMç®—æ³•å¯¹æ¨¡åž‹è¿›è¡Œè®­ç»ƒï¼Œä»¥æ¦‚çŽ‡å½¢å¼é¢„æµ‹æµ‹è¯•é›†ï¼Œè¾“å‡ºé¢„æµ‹æ¦‚çŽ‡F
 
-7¡¢"XGB_classifier.ipynb":ÊäÈë"ÌØÕ÷¹¤³Ì_2"´¦ÀíµÃµ½µÄÊý¾Ý¼¯£¬ÓÃxgboostËã·¨¶ÔÄ£ÐÍ½øÐÐÑµÁ·£¬ÒÔ¸ÅÂÊÐÎÊ½Ô¤²â²âÊÔ¼¯£¬Êä³öÔ¤²â¸ÅÂÊG
+7ã€"XGB_classifier.ipynb":è¾“å…¥"ç‰¹å¾å·¥ç¨‹_2"å¤„ç†å¾—åˆ°çš„æ•°æ®é›†ï¼Œç”¨xgboostç®—æ³•å¯¹æ¨¡åž‹è¿›è¡Œè®­ç»ƒï¼Œä»¥æ¦‚çŽ‡å½¢å¼é¢„æµ‹æµ‹è¯•é›†ï¼Œè¾“å‡ºé¢„æµ‹æ¦‚çŽ‡G
 
-8¡¢"stack.ipynb":¶ÔÊä³öµÄÆß¸öÔ¤²â¸ÅÂÊA£¬B£¬C£¬D£¬E£¬F£¬G°´ÕÕãÐÖµÊä³öÔ¤²â±êÇ©£¬ÔÙÍ¨¹ýÍ¶Æ±·¨µÃµ½×îÖÕµÄÔ¤²â±êÇ©
+8ã€"stack.ipynb":å¯¹è¾“å‡ºçš„ä¸ƒä¸ªé¢„æµ‹æ¦‚çŽ‡Aï¼ŒBï¼ŒCï¼ŒDï¼ŒEï¼ŒFï¼ŒGæŒ‰ç…§é˜ˆå€¼è¾“å‡ºé¢„æµ‹æ ‡ç­¾ï¼Œå†é€šè¿‡æŠ•ç¥¨æ³•å¾—åˆ°æœ€ç»ˆçš„é¢„æµ‹æ ‡ç­¾
 
 
