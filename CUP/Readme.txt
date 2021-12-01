@@ -6,7 +6,7 @@
 
 4_gene_sel_plot.ipynb	Visualization of the model effect obtained in step 3
 
-5_GEO_xgboost.ipynb和6_TCGA_xgboost.ipynb	After determining the gene selection results, compare the prediction effects of the five models using five-fold cross-validation, and perform optimization search for the hyperparameters of the xgboost model; and save the parameters of all models trained in this step
+5_GEO_xgboost.ipynb and 6_TCGA_xgboost.ipynb	After determining the gene selection results, compare the prediction effects of the five models using five-fold cross-validation, and perform optimization search for the hyperparameters of the xgboost model; and save the parameters of all models trained in this step
 
 7_test_evaluation.ipynb		The previously trained models are evaluated in an independent test set, and multiple evaluation index values are output to compare the model effects in many aspects, and finally the prediction effect of xgboost model for each cancer species is output.
 			
