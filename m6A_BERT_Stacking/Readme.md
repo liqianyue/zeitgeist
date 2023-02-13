@@ -1,4 +1,4 @@
-(M6A-BERT-Stacking: A tissue-specific predictor for identifying RNA N6-methyladenosine sites based on BERT and stacking strategy)
+M6A-BERT-Stacking: A tissue-specific predictor for identifying RNA N6-methyladenosine sites based on BERT and stacking strategy
 ===
 ## Requirements
 * Python == 3.8.3
